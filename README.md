@@ -32,7 +32,7 @@ A simple yet powerful music player web app built using **HTML**, **CSS**, and **
 - Push to the branch (git push origin feature-name).
 - Create a new Pull Request.
 
-#3 📬 Contact
+## 📬 Contact
 - If you have any questions or suggestions, feel free to reach out to me!
 
 - GitHub: @rajavigneshwarank
